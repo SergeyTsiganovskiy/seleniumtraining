@@ -1,10 +1,8 @@
 package ru.stqa;
 
-import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -13,8 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class MenuItemsTest {
-  public static WebDriver wd;
+public class MenuItemsTest extends TestBase {
 
   @BeforeClass
   public static void setUp() throws Exception {
@@ -22,14 +19,13 @@ public class MenuItemsTest {
     options.addArguments("--start-maximized");
     wd = new ChromeDriver(options);
     wd.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-    wd.get("http://localhost/litecart/public_html/admin/login.php?redirect_url=%2Flitecart%2Fpublic_html%2Fadmin%2F");
+    wd.get(ADMIN_PAGE);
     wd.findElement(By.name("username")).clear();
     wd.findElement(By.name("username")).sendKeys("admin");
     wd.findElement(By.name("password")).clear();
     wd.findElement(By.name("password")).sendKeys("admin");
     wd.findElement(By.name("login")).click();
   }
-
 
   @Test
   public void testMenuItems() {
@@ -65,14 +61,9 @@ public class MenuItemsTest {
   }
 
   private void isCaptionCorrect(String linkName, String locator) {
-    if (wd.findElement(By.cssSelector(locator)) == null && (wd.findElements(By.cssSelector(locator)).size() >1)) {
+    if (wd.findElement(By.cssSelector(locator)) == null && (wd.findElements(By.cssSelector(locator)).size() > 1)) {
       System.out.println("У пункта меню " + linkName + "заголовок или отсутствует либо не один");
     }
   }
 
-
-  @AfterClass
-  public static void tearDown() {
-    wd.quit();
-  }
 }
