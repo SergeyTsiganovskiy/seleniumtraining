@@ -1,34 +1,18 @@
 package ru.stqa;
 
-import org.junit.BeforeClass;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.TimeUnit;
 
 public class MenuItemsTest extends TestBase {
 
-  @BeforeClass
-  public static void setUp() throws Exception {
-    ChromeOptions options = new ChromeOptions();
-    options.addArguments("--start-maximized");
-    wd = new ChromeDriver(options);
-    wd.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-    wd.get(ADMIN_PAGE);
-    wd.findElement(By.name("username")).clear();
-    wd.findElement(By.name("username")).sendKeys("admin");
-    wd.findElement(By.name("password")).clear();
-    wd.findElement(By.name("password")).sendKeys("admin");
-    wd.findElement(By.name("login")).click();
-  }
-
   @Test
   public void testMenuItems() {
+    goToAdminPage();
+
     List<WebElement> menuItemLinks = wd.findElements(By.xpath("//li[@id='app-']/a"));
     List<String> itemNames = new ArrayList<>();
     // запоминаем имена пунктов меню
