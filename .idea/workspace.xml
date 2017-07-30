@@ -20,34 +20,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MenuItemsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/MenuItemsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CountryOrderTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/CountryOrderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZonesOrderTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/ZonesOrderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="102">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,11 +54,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ZonesOrderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/ZonesOrderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="RegularPriceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/RegularPriceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="81" />
+            <state relative-caret-position="69">
+              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,8 +79,8 @@
       <file leaf-file-name="CampaignPriceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/CampaignPriceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+            <state relative-caret-position="-238">
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,21 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StickerExistenceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/StickerExistenceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="239">
+              <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1084#1085#0" expanded="true" />
@@ -122,11 +102,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PriceSizeTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PriceSizeTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/PriceSizeTest.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeoZonesTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/GeoZonesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="443">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Y.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/Y.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -452,6 +456,8 @@
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/RegularPriceTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/PriceSizeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/Y.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/GeoZonesTest.java" />
       </list>
     </option>
   </component>
@@ -585,59 +591,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PriceSizeTest.testPriceSizeOnInnerPage">
-    <configuration default="false" name="RegularPriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="seleniumtraining_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.stqa" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.RegularPriceTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="CampaignPriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="seleniumtraining_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.stqa" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.CampaignPriceTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.GeoZonesTest.testGeoZones">
     <configuration default="false" name="GoodInfoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -714,6 +668,52 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="GeoZonesTest.testGeoZones" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="seleniumtraining_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.stqa" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.GeoZonesTest" />
+      <option name="METHOD_NAME" value="testGeoZones" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Y" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.Y" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="seleniumtraining_test" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1104,19 +1104,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.RegularPriceTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CampaignPriceTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.GoodInfoTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnHomePage" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnInnerPage" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.GoodInfoTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnHomePage" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnInnerPage" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.GeoZonesTest.testGeoZones" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Y" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnInnerPage" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnHomePage" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.GoodInfoTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CampaignPriceTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RegularPriceTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.GeoZonesTest.testGeoZones" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Y" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnInnerPage" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnHomePage" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.GoodInfoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1136,44 +1136,44 @@
       <workItem from="1501178346005" duration="627000" />
       <workItem from="1501268020664" duration="59000" />
       <workItem from="1501330706414" duration="11107000" />
-      <workItem from="1501430209335" duration="7600000" />
+      <workItem from="1501430209335" duration="12985000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CampaignPriceTest - 2017.07.30 at 20h 43m 38s.xml">
-      <configuration name="CampaignPriceTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesTest_testGeoZones - 2017.07.30 at 21h 28m 49s.xml">
+      <configuration name="GeoZonesTest.testGeoZones" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CampaignPriceTest - 2017.07.30 at 20h 47m 43s.xml">
-      <configuration name="CampaignPriceTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesTest_testGeoZones - 2017.07.30 at 21h 30m 26s.xml">
+      <configuration name="GeoZonesTest.testGeoZones" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoodInfoTest - 2017.07.30 at 20h 48m 00s.xml">
-      <configuration name="GoodInfoTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesTest_testGeoZones - 2017.07.30 at 21h 34m 21s.xml">
+      <configuration name="GeoZonesTest.testGeoZones" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PriceSizeTest_testPriceSizeOnHomePage - 2017.07.30 at 21h 01m 44s.xml">
-      <configuration name="PriceSizeTest.testPriceSizeOnHomePage" configurationId="JUnit" />
+    <history-entry file="GeoZonesTest_testGeoZones - 2017.07.30 at 21h 36m 17s.xml">
+      <configuration name="GeoZonesTest.testGeoZones" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PriceSizeTest_testPriceSizeOnHomePage - 2017.07.30 at 21h 02m 45s.xml">
-      <configuration name="PriceSizeTest.testPriceSizeOnHomePage" configurationId="JUnit" />
+    <history-entry file="GeoZonesTest_testGeoZones - 2017.07.30 at 21h 39m 08s.xml">
+      <configuration name="GeoZonesTest.testGeoZones" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PriceSizeTest_testPriceSizeOnInnerPage - 2017.07.30 at 21h 03m 39s.xml">
-      <configuration name="PriceSizeTest.testPriceSizeOnInnerPage" configurationId="JUnit" />
+    <history-entry file="GeoZonesTest_testGeoZones - 2017.07.30 at 21h 42m 30s.xml">
+      <configuration name="GeoZonesTest.testGeoZones" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegularPriceTest - 2017.07.30 at 20h 41m 20s.xml">
-      <configuration name="RegularPriceTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesTest_testGeoZones - 2017.07.30 at 21h 43m 37s.xml">
+      <configuration name="GeoZonesTest.testGeoZones" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegularPriceTest - 2017.07.30 at 20h 43m 07s.xml">
-      <configuration name="RegularPriceTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesTest_testGeoZones - 2017.07.30 at 21h 47m 31s.xml">
+      <configuration name="GeoZonesTest.testGeoZones" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegularPriceTest - 2017.07.30 at 20h 43m 59s.xml">
-      <configuration name="RegularPriceTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesTest_testGeoZones - 2017.07.30 at 22h 38m 32s.xml">
+      <configuration name="GeoZonesTest.testGeoZones" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegularPriceTest - 2017.07.30 at 20h 47m 25s.xml">
-      <configuration name="RegularPriceTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesTest_testGeoZones - 2017.07.30 at 22h 39m 09s.xml">
+      <configuration name="GeoZonesTest.testGeoZones" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33671000" />
+    <option name="totallyTimeSpent" value="39056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1248,7 +1248,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1528,14 +1530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/ZonesOrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/InnerPageGood.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/StickerExistenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1549,14 +1543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/CountryOrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1581,30 +1567,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/CampaignPriceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-            <element signature="e#1103#1104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/RegularPriceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="81" />
+        <state relative-caret-position="-238">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1613,8 +1577,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/PriceSizeTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/RegularPriceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/CountryOrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/ZonesOrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/Y.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/GeoZonesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
