@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c873d3a-fec0-4112-983c-cb9abd01d343" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/TestBase.java" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/TestBase.java" />
-    </list>
+    <list default="true" id="8c873d3a-fec0-4112-983c-cb9abd01d343" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -79,8 +77,8 @@
       <file leaf-file-name="RegularPriceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/RegularPriceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="392">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,16 +98,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Country.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/Country.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StickerExistenceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/StickerExistenceTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,7 +108,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="397">
@@ -129,6 +117,18 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#1084#1085#0" expanded="true" />
                 <element signature="e#1103#1104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriceSizeTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/PriceSizeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -449,8 +449,9 @@
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/CampaignPriceColorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/RegularPriceColorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/CampaignPriceTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/RegularPriceTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/RegularPriceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/PriceSizeTest.java" />
       </list>
     </option>
   </component>
@@ -584,59 +585,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GoodInfoTest">
-    <configuration default="false" name="RegularPriceTest.testRegularPriceCrossingOnHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="seleniumtraining_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.stqa" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.RegularPriceTest" />
-      <option name="METHOD_NAME" value="testRegularPriceCrossingOnHomePage" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="RegularPriceTest.testRegularPriceCrossingOnInnerPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="seleniumtraining_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.stqa" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.RegularPriceTest" />
-      <option name="METHOD_NAME" value="testRegularPriceCrossingOnInnerPage" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.PriceSizeTest.testPriceSizeOnInnerPage">
     <configuration default="false" name="RegularPriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -703,6 +652,58 @@
       <option name="MAIN_CLASS_NAME" value="ru.stqa.GoodInfoTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PriceSizeTest.testPriceSizeOnHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="seleniumtraining_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.stqa" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.PriceSizeTest" />
+      <option name="METHOD_NAME" value="testPriceSizeOnHomePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PriceSizeTest.testPriceSizeOnInnerPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="seleniumtraining_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.stqa" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.PriceSizeTest" />
+      <option name="METHOD_NAME" value="testPriceSizeOnInnerPage" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1103,19 +1104,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.RegularPriceTest.testRegularPriceCrossingOnHomePage" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.RegularPriceTest.testRegularPriceCrossingOnInnerPage" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RegularPriceTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CampaignPriceTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.GoodInfoTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.RegularPriceTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CampaignPriceTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.GoodInfoTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnHomePage" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnInnerPage" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.GoodInfoTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CampaignPriceTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.RegularPriceTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RegularPriceTest.testRegularPriceCrossingOnInnerPage" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RegularPriceTest.testRegularPriceCrossingOnHomePage" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnInnerPage" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PriceSizeTest.testPriceSizeOnHomePage" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GoodInfoTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CampaignPriceTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.RegularPriceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1135,7 +1136,7 @@
       <workItem from="1501178346005" duration="627000" />
       <workItem from="1501268020664" duration="59000" />
       <workItem from="1501330706414" duration="11107000" />
-      <workItem from="1501430209335" duration="6691000" />
+      <workItem from="1501430209335" duration="7600000" />
     </task>
     <servers />
   </component>
@@ -1146,11 +1147,17 @@
     <history-entry file="CampaignPriceTest - 2017.07.30 at 20h 47m 43s.xml">
       <configuration name="CampaignPriceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CampaignPriceTest_testCampaignPriceFontOnInnerPage - 2017.07.30 at 20h 37m 00s.xml">
-      <configuration name="CampaignPriceTest.testCampaignPriceFontOnInnerPage" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GoodInfoTest - 2017.07.30 at 20h 48m 00s.xml">
       <configuration name="GoodInfoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PriceSizeTest_testPriceSizeOnHomePage - 2017.07.30 at 21h 01m 44s.xml">
+      <configuration name="PriceSizeTest.testPriceSizeOnHomePage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PriceSizeTest_testPriceSizeOnHomePage - 2017.07.30 at 21h 02m 45s.xml">
+      <configuration name="PriceSizeTest.testPriceSizeOnHomePage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PriceSizeTest_testPriceSizeOnInnerPage - 2017.07.30 at 21h 03m 39s.xml">
+      <configuration name="PriceSizeTest.testPriceSizeOnInnerPage" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RegularPriceTest - 2017.07.30 at 20h 41m 20s.xml">
       <configuration name="RegularPriceTest" configurationId="JUnit" />
@@ -1164,15 +1171,9 @@
     <history-entry file="RegularPriceTest - 2017.07.30 at 20h 47m 25s.xml">
       <configuration name="RegularPriceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegularPriceTest_testRegularPriceCrossingOnHomePage - 2017.07.30 at 20h 38m 44s.xml">
-      <configuration name="RegularPriceTest.testRegularPriceCrossingOnHomePage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RegularPriceTest_testRegularPriceCrossingOnInnerPage - 2017.07.30 at 20h 39m 47s.xml">
-      <configuration name="RegularPriceTest.testRegularPriceCrossingOnInnerPage" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32762000" />
+    <option name="totallyTimeSpent" value="33671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1588,16 +1589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/RegularPriceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
@@ -1606,6 +1597,26 @@
             <element signature="imports" expanded="true" />
             <element signature="e#1084#1085#0" expanded="true" />
             <element signature="e#1103#1104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/RegularPriceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/PriceSizeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
