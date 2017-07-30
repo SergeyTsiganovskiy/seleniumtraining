@@ -7,6 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
 import java.util.concurrent.TimeUnit;
@@ -21,7 +22,7 @@ public class TestBase {
     ChromeOptions options = new ChromeOptions();
     options.addArguments("--start-maximized");
     wd = new ChromeDriver(options);
-//    wd = new FirefoxDriver();
+//    wd = new FirefoxDriver(new FirefoxOptions().setLegacy(true));
 //    wd = new InternetExplorerDriver();
     wd.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
   }
