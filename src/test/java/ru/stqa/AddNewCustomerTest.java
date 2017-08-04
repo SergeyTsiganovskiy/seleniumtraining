@@ -1,29 +1,16 @@
 package ru.stqa;
 
-
-import org.junit.After;
-import org.junit.Before;
 import org.junit.Test;
-
-import java.util.Random;
-import java.util.concurrent.TimeUnit;
-
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.*;
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.support.ui.Select;
 
-public class AddNewCustomerTest {
-    WebDriver wd;
-    
-    @Before
-    public void setUp() throws Exception {
-        wd = new ChromeDriver();
-        wd.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-    }
-    
+import java.util.Random;
+
+public class AddNewCustomerTest extends TestBase{
     @Test
     public void AddNewCustomerTest() {
-        wd.get("http://localhost/litecart/public_html/en/");
+        wd.get(HOME_PAGE);
         wd.findElement(By.linkText("New customers click here")).click();
         type(By.name("firstname"), "MyName");
         type(By.name("lastname"), "MyLastName");
@@ -60,10 +47,4 @@ public class AddNewCustomerTest {
         wd.findElement(locator).clear();
         wd.findElement(locator).sendKeys(text);
     }
-
-    @After
-    public void tearDown() {
-        wd.quit();
-    }
-
 }
