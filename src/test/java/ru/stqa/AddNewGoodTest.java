@@ -18,13 +18,13 @@ public class AddNewGoodTest extends TestBase{
 
         wd.findElement(By.xpath("//input[@value = '1']")).click();
 
-        type(By.name("name[en]"), "Toy duck NEW");
+        type(By.name("name[en]"), "Toy duck NEW555");
         type(By.name("code"), "12345");
 
         wd.findElement(By.xpath("//input[@value = '1']")).click();
         wd.findElement(By.cssSelector("tbody>tr:nth-of-type(4)>td>input")).click();
 
-        File file = new File("testduck.jpeg");
+        File file = new File(".\\src\\test\\resources\\testduck.jpg");
 
         wd.findElement(By.name("new_images[]")).sendKeys(file.getAbsolutePath());
 
