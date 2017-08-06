@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumtraining.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumtraining.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumtraining_main.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumtraining_main.iml" group="seleniumtraining" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumtraining_test.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumtraining_test.iml" group="seleniumtraining" />
     </modules>
