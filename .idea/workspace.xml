@@ -27,9 +27,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1071">
               <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="71" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -37,7 +35,7 @@
       <file leaf-file-name="AddToCartTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/AddToCartTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
+            <state relative-caret-position="629">
               <caret line="45" column="57" lean-forward="false" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -49,8 +47,8 @@
       <file leaf-file-name="NewPageTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/NewPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-133">
-              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="221">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/CountryOrderTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="20" />
+              <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -73,80 +71,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2431">
               <caret line="178" column="46" lean-forward="false" selection-start-line="178" selection-start-column="46" selection-end-line="178" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#50693#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#3787#3788#0" expanded="false" />
-                <element signature="e#3883#3884#0" expanded="false" />
-                <element signature="e#5976#5977#0" expanded="false" />
-                <element signature="e#6029#6030#0" expanded="false" />
-                <element signature="e#6079#6080#0" expanded="false" />
-                <element signature="e#6148#6149#0" expanded="false" />
-                <element signature="e#6928#6929#0" expanded="false" />
-                <element signature="e#6998#6999#0" expanded="false" />
-                <element signature="e#7916#7917#0" expanded="false" />
-                <element signature="e#7991#7992#0" expanded="false" />
-                <element signature="e#8844#8845#0" expanded="false" />
-                <element signature="e#8900#8901#0" expanded="false" />
-                <element signature="e#9446#9447#0" expanded="false" />
-                <element signature="e#9496#9497#0" expanded="false" />
-                <element signature="e#9546#9547#0" expanded="false" />
-                <element signature="e#9597#9598#0" expanded="false" />
-                <element signature="e#9775#9776#0" expanded="false" />
-                <element signature="e#9830#9831#0" expanded="false" />
-                <element signature="e#10457#10458#0" expanded="false" />
-                <element signature="e#10530#10531#0" expanded="false" />
-                <element signature="e#11336#11337#0" expanded="false" />
-                <element signature="e#11432#11433#0" expanded="false" />
-                <element signature="e#14082#14083#0" expanded="false" />
-                <element signature="e#14180#14181#0" expanded="false" />
-                <element signature="e#16115#16116#0" expanded="false" />
-                <element signature="e#16180#16181#0" expanded="false" />
-                <element signature="e#16916#16917#0" expanded="false" />
-                <element signature="e#16976#16977#0" expanded="false" />
-                <element signature="e#17725#17726#0" expanded="false" />
-                <element signature="e#17790#17791#0" expanded="false" />
-                <element signature="e#18551#18552#0" expanded="false" />
-                <element signature="e#18616#18617#0" expanded="false" />
-                <element signature="e#19634#19635#0" expanded="false" />
-                <element signature="e#19704#19705#0" expanded="false" />
-                <element signature="e#21829#21830#0" expanded="false" />
-                <element signature="e#21891#21892#0" expanded="false" />
-                <element signature="e#22710#22711#0" expanded="false" />
-                <element signature="e#22772#22773#0" expanded="false" />
-                <element signature="e#23457#23458#0" expanded="false" />
-                <element signature="e#23536#23537#0" expanded="false" />
-                <element signature="e#24572#24573#0" expanded="false" />
-                <element signature="e#24655#24656#0" expanded="false" />
-                <element signature="e#25570#25571#0" expanded="false" />
-                <element signature="e#25627#25628#0" expanded="false" />
-                <element signature="e#27011#27012#0" expanded="false" />
-                <element signature="e#27057#27058#0" expanded="false" />
-                <element signature="e#27760#27761#0" expanded="false" />
-                <element signature="e#27842#27843#0" expanded="false" />
-                <element signature="e#28605#28606#0" expanded="false" />
-                <element signature="e#28671#28672#0" expanded="false" />
-                <element signature="e#31765#31766#0" expanded="false" />
-                <element signature="e#31867#31868#0" expanded="false" />
-                <element signature="e#43053#43054#0" expanded="false" />
-                <element signature="e#43134#43135#0" expanded="false" />
-                <element signature="e#43829#43830#0" expanded="false" />
-                <element signature="e#43887#43888#0" expanded="false" />
-                <element signature="e#43937#43938#0" expanded="false" />
-                <element signature="e#44028#44029#0" expanded="false" />
-                <element signature="e#45420#45421#0" expanded="false" />
-                <element signature="e#45504#45505#0" expanded="false" />
-                <element signature="e#45554#45555#0" expanded="false" />
-                <element signature="e#45621#45622#0" expanded="false" />
-                <element signature="e#46024#46025#0" expanded="false" />
-                <element signature="e#46069#46070#0" expanded="false" />
-                <element signature="e#46119#46120#0" expanded="false" />
-                <element signature="e#46172#46173#0" expanded="false" />
-                <element signature="e#49685#49686#0" expanded="false" />
-                <element signature="e#49761#49762#0" expanded="false" />
-                <element signature="e#50602#50603#0" expanded="false" />
-                <element signature="e#50678#50679#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -156,9 +81,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -168,9 +91,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -180,9 +101,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="81" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -192,9 +111,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -204,11 +121,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#1084#1085#0" expanded="false" />
-                <element signature="e#1103#1104#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -572,6 +485,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -622,8 +537,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -1219,14 +1132,13 @@
       <workItem from="1502012084763" duration="105000" />
       <workItem from="1502012504553" duration="1587000" />
       <workItem from="1502195328407" duration="84000" />
-      <workItem from="1502195465141" duration="3253000" />
+      <workItem from="1502195465141" duration="4018000" />
+      <workItem from="1502291857919" duration="110000" />
+      <workItem from="1502348959045" duration="528000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddToCartTest_AddToCartTest - 2017.08.06 at 12h 51m 09s.xml">
-      <configuration name="AddToCartTest.AddToCartTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AddToCartTest_AddToCartTest - 2017.08.06 at 12h 51m 58s.xml">
       <configuration name="AddToCartTest.AddToCartTest" configurationId="JUnit" />
     </history-entry>
@@ -1254,9 +1166,12 @@
     <history-entry file="NewPageTest_NewPageTest - 2017.08.08 at 17h 07m 40s.xml">
       <configuration name="NewPageTest.NewPageTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NewPageTest_NewPageTest - 2017.08.10 at 10h 17m 36s.xml">
+      <configuration name="NewPageTest.NewPageTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81384000" />
+    <option name="totallyTimeSpent" value="82787000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1268,7 +1183,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1286,7 +1201,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20149253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20575693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1338,11 +1253,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1084#1085#0" expanded="false" />
-            <element signature="e#1103#1104#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1378,11 +1289,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1084#1085#0" expanded="false" />
-            <element signature="e#1103#1104#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1418,11 +1325,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1084#1085#0" expanded="false" />
-            <element signature="e#1103#1104#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1458,11 +1361,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1084#1085#0" expanded="false" />
-            <element signature="e#1103#1104#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1564,7 +1463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1605,7 +1503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1613,9 +1510,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1623,9 +1518,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1633,9 +1526,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1643,9 +1534,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="81" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1653,11 +1542,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1084#1085#0" expanded="false" />
-            <element signature="e#1103#1104#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1665,80 +1550,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2431">
           <caret line="178" column="46" lean-forward="false" selection-start-line="178" selection-start-column="46" selection-end-line="178" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#50693#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3787#3788#0" expanded="false" />
-            <element signature="e#3883#3884#0" expanded="false" />
-            <element signature="e#5976#5977#0" expanded="false" />
-            <element signature="e#6029#6030#0" expanded="false" />
-            <element signature="e#6079#6080#0" expanded="false" />
-            <element signature="e#6148#6149#0" expanded="false" />
-            <element signature="e#6928#6929#0" expanded="false" />
-            <element signature="e#6998#6999#0" expanded="false" />
-            <element signature="e#7916#7917#0" expanded="false" />
-            <element signature="e#7991#7992#0" expanded="false" />
-            <element signature="e#8844#8845#0" expanded="false" />
-            <element signature="e#8900#8901#0" expanded="false" />
-            <element signature="e#9446#9447#0" expanded="false" />
-            <element signature="e#9496#9497#0" expanded="false" />
-            <element signature="e#9546#9547#0" expanded="false" />
-            <element signature="e#9597#9598#0" expanded="false" />
-            <element signature="e#9775#9776#0" expanded="false" />
-            <element signature="e#9830#9831#0" expanded="false" />
-            <element signature="e#10457#10458#0" expanded="false" />
-            <element signature="e#10530#10531#0" expanded="false" />
-            <element signature="e#11336#11337#0" expanded="false" />
-            <element signature="e#11432#11433#0" expanded="false" />
-            <element signature="e#14082#14083#0" expanded="false" />
-            <element signature="e#14180#14181#0" expanded="false" />
-            <element signature="e#16115#16116#0" expanded="false" />
-            <element signature="e#16180#16181#0" expanded="false" />
-            <element signature="e#16916#16917#0" expanded="false" />
-            <element signature="e#16976#16977#0" expanded="false" />
-            <element signature="e#17725#17726#0" expanded="false" />
-            <element signature="e#17790#17791#0" expanded="false" />
-            <element signature="e#18551#18552#0" expanded="false" />
-            <element signature="e#18616#18617#0" expanded="false" />
-            <element signature="e#19634#19635#0" expanded="false" />
-            <element signature="e#19704#19705#0" expanded="false" />
-            <element signature="e#21829#21830#0" expanded="false" />
-            <element signature="e#21891#21892#0" expanded="false" />
-            <element signature="e#22710#22711#0" expanded="false" />
-            <element signature="e#22772#22773#0" expanded="false" />
-            <element signature="e#23457#23458#0" expanded="false" />
-            <element signature="e#23536#23537#0" expanded="false" />
-            <element signature="e#24572#24573#0" expanded="false" />
-            <element signature="e#24655#24656#0" expanded="false" />
-            <element signature="e#25570#25571#0" expanded="false" />
-            <element signature="e#25627#25628#0" expanded="false" />
-            <element signature="e#27011#27012#0" expanded="false" />
-            <element signature="e#27057#27058#0" expanded="false" />
-            <element signature="e#27760#27761#0" expanded="false" />
-            <element signature="e#27842#27843#0" expanded="false" />
-            <element signature="e#28605#28606#0" expanded="false" />
-            <element signature="e#28671#28672#0" expanded="false" />
-            <element signature="e#31765#31766#0" expanded="false" />
-            <element signature="e#31867#31868#0" expanded="false" />
-            <element signature="e#43053#43054#0" expanded="false" />
-            <element signature="e#43134#43135#0" expanded="false" />
-            <element signature="e#43829#43830#0" expanded="false" />
-            <element signature="e#43887#43888#0" expanded="false" />
-            <element signature="e#43937#43938#0" expanded="false" />
-            <element signature="e#44028#44029#0" expanded="false" />
-            <element signature="e#45420#45421#0" expanded="false" />
-            <element signature="e#45504#45505#0" expanded="false" />
-            <element signature="e#45554#45555#0" expanded="false" />
-            <element signature="e#45621#45622#0" expanded="false" />
-            <element signature="e#46024#46025#0" expanded="false" />
-            <element signature="e#46069#46070#0" expanded="false" />
-            <element signature="e#46119#46120#0" expanded="false" />
-            <element signature="e#46172#46173#0" expanded="false" />
-            <element signature="e#49685#49686#0" expanded="false" />
-            <element signature="e#49761#49762#0" expanded="false" />
-            <element signature="e#50602#50603#0" expanded="false" />
-            <element signature="e#50678#50679#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1746,15 +1558,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
           <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="71" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/AddToCartTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
+        <state relative-caret-position="629">
           <caret line="45" column="57" lean-forward="false" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1765,15 +1575,15 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/CountryOrderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="20" />
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/NewPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
