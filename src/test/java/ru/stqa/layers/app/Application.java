@@ -14,13 +14,12 @@ public class Application {
   public static final String ADMIN_PAGE = "http://localhost/litecart/public_html/admin/";
   public static final String HOME_PAGE = "http://localhost/litecart/public_html";
   private GoodPage goodPage;
-  private  HomePage homePage;
-
+  private HomePage homePage;
   private CartPage cartPage;
   private WebDriver wd;
 
 
-  public  void init() {
+  public void init() {
     ChromeOptions options = new ChromeOptions();
     options.addArguments("--start-maximized");
     wd = new ChromeDriver(options);

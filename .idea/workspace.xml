@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c873d3a-fec0-4112-983c-cb9abd01d343" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/layers/app/Application.java" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/layers/app/Application.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/CartPage.java" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/CartPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/GoodPage.java" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/GoodPage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/layers/tests/AddToCartTest.java" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/layers/tests/AddToCartTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/InnerPage.java" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/GoodPage.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -87,7 +86,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1071">
               <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="71" selection-end-column="5" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,14 +140,14 @@
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/app/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1254#1255#0" expanded="true" />
-                <element signature="e#1279#1280#0" expanded="true" />
-                <element signature="e#1311#1312#0" expanded="true" />
-                <element signature="e#1336#1337#0" expanded="true" />
+                <element signature="e#1251#1252#0" expanded="true" />
+                <element signature="e#1276#1277#0" expanded="true" />
+                <element signature="e#1308#1309#0" expanded="true" />
+                <element signature="e#1333#1334#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -155,13 +156,27 @@
       <file leaf-file-name="GoodPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/GoodPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#1288#1289#0" expanded="true" />
+                <element signature="e#1362#1363#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="By.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.4.0/1a0347cf7295dc29ea2087568037e69e83079c81/selenium-api-3.4.0-sources.jar!/org/openqa/selenium/By.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="142" column="18" lean-forward="false" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -169,18 +184,18 @@
       <file leaf-file-name="CartPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/CartPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-177">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="731">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#984#985#0" expanded="true" />
-                <element signature="e#1063#1064#0" expanded="true" />
-                <element signature="e#1097#1098#0" expanded="true" />
-                <element signature="e#1191#1192#0" expanded="true" />
-                <element signature="e#1234#1235#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#1249#1250#0" expanded="true" />
                 <element signature="e#1295#1296#0" expanded="true" />
+                <element signature="e#1333#1334#0" expanded="true" />
+                <element signature="e#1392#1393#0" expanded="true" />
+                <element signature="e#1435#1436#0" expanded="true" />
+                <element signature="e#1480#1481#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,8 +204,8 @@
       <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#184#185#0" expanded="true" />
@@ -531,10 +546,10 @@
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/layers/tests/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/InnerPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/GoodPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/layers/app/Application.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/CartPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/layers/tests/AddToCartTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/layers/app/Application.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/GoodPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/CartPage.java" />
       </list>
     </option>
   </component>
@@ -1356,17 +1371,11 @@
       <workItem from="1502821121734" duration="114000" />
       <workItem from="1502821294257" duration="129000" />
       <workItem from="1502917348356" duration="1587000" />
-      <workItem from="1503121458585" duration="2137000" />
+      <workItem from="1503121458585" duration="4362000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddToCartTest_AddToCartTest_(1) - 2017.08.18 at 23h 57m 44s.xml">
-      <configuration name="AddToCartTest.AddToCartTest (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddToCartTest_AddToCartTest_(1) - 2017.08.19 at 00h 15m 50s.xml">
-      <configuration name="AddToCartTest.AddToCartTest (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AddToCartTest_AddToCartTest_(1) - 2017.08.19 at 08h 45m 25s.xml">
       <configuration name="AddToCartTest.AddToCartTest (1)" configurationId="JUnit" />
     </history-entry>
@@ -1377,6 +1386,12 @@
       <configuration name="AddToCartTest.AddToCartTest (1)" configurationId="JUnit" />
     </history-entry>
     <history-entry file="AddToCartTest_AddToCartTest_(1) - 2017.08.19 at 09h 20m 06s.xml">
+      <configuration name="AddToCartTest.AddToCartTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddToCartTest_AddToCartTest_(1) - 2017.08.19 at 09h 42m 57s.xml">
+      <configuration name="AddToCartTest.AddToCartTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddToCartTest_AddToCartTest_(1) - 2017.08.19 at 09h 57m 16s.xml">
       <configuration name="AddToCartTest.AddToCartTest (1)" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NewPageTest_NewPageTest - 2017.08.08 at 17h 01m 43s.xml">
@@ -1393,7 +1408,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94746000" />
+    <option name="totallyTimeSpent" value="96971000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1455,6 +1470,12 @@
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/tests/AddToCartTest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/ru/stqa/LogCheckTest.java</url>
           <line>13</line>
@@ -1463,16 +1484,8 @@
           </properties>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/tests/AddToCartTest.java</url>
-          <line>10</line>
-          <properties class="ru.stqa.layers.tests.AddToCartTest" method="AddToCartTest">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="21" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1481,13 +1494,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/AdminLoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/MenuItemsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1737,7 +1743,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
           <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="71" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1784,14 +1792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/tests/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/GoodPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1800,10 +1800,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/app/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1308#1309#0" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.4.0/1a0347cf7295dc29ea2087568037e69e83079c81/selenium-api-3.4.0-sources.jar!/org/openqa/selenium/By.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="142" column="18" lean-forward="false" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/GoodPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+            <element signature="e#1362#1363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
@@ -1812,46 +1858,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/GoodPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="14" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/app/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1279#1280#0" expanded="true" />
-            <element signature="e#1311#1312#0" expanded="true" />
-            <element signature="e#1336#1337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/layers/pages/CartPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-177">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="731">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1063#1064#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-            <element signature="e#1191#1192#0" expanded="true" />
-            <element signature="e#1234#1235#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
             <element signature="e#1295#1296#0" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
           </folding>
         </state>
       </provider>

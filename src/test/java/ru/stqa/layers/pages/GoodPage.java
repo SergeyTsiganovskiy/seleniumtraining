@@ -9,30 +9,34 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class GoodPage {
   protected WebDriver wd;
+  private By cartLink = By.linkText("Checkout »");
+  private By goodLink = By.cssSelector("div#box-most-popular li:nth-of-type(1)");
+  private By goodParameter = By.name("options[Size]");
+  private By addToCartButton = By.name("add_cart_product");
+  private By numberOfGoods = By.cssSelector("#cart span.quantity") ;
 
   public GoodPage(WebDriver wd) {
     this.wd = wd;
   }
 
   public void goToCart() {
-    wd.findElement(By.linkText("Checkout »")).click();
+    wd.findElement(cartLink).click();
   }
 
   public void addToCart(int i) {
-    wd.findElement(By.cssSelector("div#box-most-popular li:nth-of-type(1)")).click();
+    wd.findElement(goodLink).click();
 
     // есть товары где нужно перед добавление указать размер
-    if (wd.findElements(By.name("options[Size]")).size() > 0){
-      new Select(wd.findElement(By.name("options[Size]"))).selectByValue("Small");
+    if (wd.findElements(goodParameter).size() > 0) {
+      new Select(wd.findElement(goodParameter)).selectByValue("Small");
     }
 
-    WebElement addToCartButton = wd.findElement(By.name("add_cart_product"));
-    addToCartButton.click();
-    new WebDriverWait(wd, 3).until(ExpectedConditions.textToBePresentInElementLocated(By.cssSelector("#cart span.quantity"), String.format("%d", i)));
+    wd.findElement(addToCartButton).click();
+    new WebDriverWait(wd, 3).until(ExpectedConditions.textToBePresentInElementLocated(numberOfGoods, String.format("%d", i)));
     wd.navigate().back();
   }
 
   public int goodQuantity() {
-    return Integer.parseInt(wd.findElement(By.cssSelector("#cart span.quantity")).getText());
+    return Integer.parseInt(wd.findElement(numberOfGoods).getText());
   }
 }

@@ -25,7 +25,7 @@ public class AddToCartTest extends TestBase {
     // проверяем что название товара, который удаляем исчезло из списка в таблице
     for (int i = 0; i < numderOfGoods.size(); i++) {
       app.cartPage().delete();
-      Assert.assertTrue(app.cartPage().isTableChanged(app.cartPage().goodToDelete()));
+      Assert.assertTrue(app.cartPage().isTableChanged(app.cartPage().goodNameToDelete()));
     }
   }
 }
